@@ -65,6 +65,6 @@ process should be scheduled as Queue 1 has higher priority than Queue 2. Again a
 
 =========================================================
                      created by:
-                    MD R.J.S ROSE
+                    MD R.J.S. ROSE
 ===========================================================
 
